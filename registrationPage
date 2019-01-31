@@ -68,7 +68,7 @@
 				    <h3>Registration form</h3>
 					<form class="form-horizontal" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
 						<input type=hidden name="oid" value="00D0o0000016OF5">
-						<input type=hidden name="retURL" value="https://supersonicvh2.github.io/registrationPage/"><br>
+						<input type=hidden name="retURL" value="https://supersonicvh2.github.io/thankyou/"><br>
 						<div class="form-group">							
 							<input  id="first_name" class="form-control form-control-sm" maxlength="40" name="first_name" size="20" type="text" placeholder="First Name"/>
 						</div>
