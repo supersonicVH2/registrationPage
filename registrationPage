@@ -28,7 +28,7 @@
 			text-shadow: 3px 2px white;
 		}
 		.bgWhite{
-			background-color: #EEF5FF;
+			background-color: #ff0000;
 			min-height:80%;
 			margin-top:2%;
 		}
@@ -65,7 +65,7 @@
 			<div class="col-xs-10 col-md-8 bgWhite polaroid">
 				<div class="container width100">
 				<center>
-				    <h3>Offer Registration form</h3>
+				    <h3>Registration form</h3>
 					<form class="form-horizontal" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
 						<input type=hidden name="oid" value="00D0o0000016OF5">
 						<input type=hidden name="retURL" value="https://supersonicvh2.github.io/registrationPage/"><br>
