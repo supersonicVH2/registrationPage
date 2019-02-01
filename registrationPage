@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Supersonic Registraton Form</title>
+  <title> Registraton Form</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
@@ -16,7 +16,7 @@
 			height:100%;
 		}
 		.bg-Image{
-			background-image: url("VH1.png");
+			background-image: url("1481898867_0679489001455788420.png");
 			width:100%;
 			height:100%;
 			background-size: cover;
@@ -54,7 +54,7 @@
 <div class="container">
 		<div class="row">
 			<div class="col-xs-1 col-md-2"></div>
-			<div class="col-xs-10 col-md-8 title"><center><h1>Supersonic</h1></center></div>	
+			<div class="col-xs-10 col-md-8 title"><center><h1>Sula Fest</h1></center></div>	
 			<div class="col-xs-1 col-md-2"></div>
 		</div>
 </div>
